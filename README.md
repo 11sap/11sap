@@ -12,12 +12,10 @@
 ### **Languages and Tools**:
 
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=A8B9CC)
 
 ![NodeJS](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![DiscordJS](https://img.shields.io/badge/-DiscordJS-090909?style=for-the-badge&logo=Discord&logoColor=5865F2)
 
 
