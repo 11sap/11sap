@@ -2,13 +2,14 @@
 ### **Languages and Tools**:
 
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) 
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=A8B9CC) 
 <!-- ![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6) -->
 ![NodeJS](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=339933) 
 ![DiscordJS](https://img.shields.io/badge/-DiscordJS-090909?style=for-the-badge&logo=Discord&logoColor=5865F2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![VSCode](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue) 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) 
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=A8B9CC) 
+
 
 <!-- ##
 <picture>
